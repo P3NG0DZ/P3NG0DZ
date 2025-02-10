@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can reach me through GitHub or other platforms (details coming soon!).
 
 ### About Me
-- **Name**: Jannik
+
 - **Age**: 18 years old
 - **Hobby**: Developing and coding are my passions, and I enjoy exploring new technologies and programming languages.
 
